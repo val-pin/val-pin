@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-🌱 I’m currently learning JavaScript at SPICED Academy 
+🌱 I’m currently learning JavaScript at Code Academy Berlin
 
 <!--
 **val-pin/val-pin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
