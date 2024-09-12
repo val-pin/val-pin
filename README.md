@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-🌱 I’m currently learning Full Stack Web Development at Code Academy Berlin
+🌱 I completed the course of Full Stack Web Development at Code Academy Berlin
 
 <!--
 **val-pin/val-pin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
